@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/morinted/rehowl.git"
+    "url": "git+https://github.com/mraxus/rehowl.git"
   },
   "keywords": [
     "react",
@@ -28,9 +28,9 @@
   "author": "Ted Morin <morinted@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/morinted/rehowl/issues"
+    "url": "https://github.com/mraxus/rehowl/issues"
   },
-  "homepage": "https://github.com/morinted/rehowl#readme",
+  "homepage": "https://github.com/mraxus/rehowl#readme",
   "peerDependencies": {
     "howler": "^2.0.0",
     "react": "^18.2.0"
