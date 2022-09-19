@@ -1,4 +1,8 @@
-# Rehowl
+# Rehowl - React 18 support
+
+Note: All below is just from the old version 0.6.0. That version did not allow react 17/18, probably due to storybook didn't support later react versions than 16.
+
+## Rehowl
 
 An opinionated React wrapper for [howler.js](https://howlerjs.com/)
 
